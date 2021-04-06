@@ -1,3 +1,3 @@
 # Progressive-Web-App
 
-Developed a Progressive Web App using JavaScript, Service Worker, etc.
+Developed a Progressive Web App to save contacts using JavaScript, Service Worker, etc.
